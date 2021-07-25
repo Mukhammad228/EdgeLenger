@@ -215,8 +215,11 @@ p{
 }
 
 #contact .map{
-    background: url('./img/sky.jpg') no-repeat center center/cover;
-    min-height: 100%;
+    height: 100%;
+}
+
+#contact .map iframe{
+    width: 100%;
 }
 
 #contact .map, 
